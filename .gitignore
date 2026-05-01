@@ -1,0 +1,4 @@
+*test*
+/.venv
+*.docx
+.DS_Store
